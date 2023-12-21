@@ -58,3 +58,22 @@ end;
 alter table HUMAN
 modify termdate date;
 
+
+
+-- QUESTIONS
+/*
+Ratio of male to female employees
+number of employees in each department
+employees races 
+how many employees are working remotely
+how many employees has been terminated and their department
+employees by their states
+age range of employees
+total number of employees
+employees based on hire year
+
+
+
+
+
+*/
